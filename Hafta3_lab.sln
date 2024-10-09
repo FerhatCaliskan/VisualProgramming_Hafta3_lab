@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hafta3_lab", "Hafta3_lab\Hafta3_lab.csproj", "{446B87F5-8D7C-459C-96ED-C20BA1F36391}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B2963C0E-D64E-4F9C-80FB-187E751B1910}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{446B87F5-8D7C-459C-96ED-C20BA1F36391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{446B87F5-8D7C-459C-96ED-C20BA1F36391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{446B87F5-8D7C-459C-96ED-C20BA1F36391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{446B87F5-8D7C-459C-96ED-C20BA1F36391}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {236A36AC-1E48-43E8-8176-E95D2DD78EFB}
+	EndGlobalSection
+EndGlobal
